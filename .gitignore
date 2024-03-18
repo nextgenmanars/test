@@ -1,7 +1,0 @@
-### Python tamplate
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-docker-compose.yaml
-log/
-resources/products.json
