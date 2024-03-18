@@ -34,4 +34,4 @@ except IntegrityError as i:
 
 session.close()
 
-print("Something")
+
