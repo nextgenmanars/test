@@ -33,3 +33,5 @@ except IntegrityError as i:
     session.rollback()
 
 session.close()
+
+print("Something")
