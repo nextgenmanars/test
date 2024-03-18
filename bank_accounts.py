@@ -38,3 +38,5 @@ except IntegrityError as i:
     session.rollback()
 
 session.close()
+
+print("AAA")
